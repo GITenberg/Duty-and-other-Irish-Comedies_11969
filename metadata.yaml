@@ -1,0 +1,25 @@
+_repo: Duty-and-other-Irish-Comedies_11969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Brien, Seumas
+    birthdate: 1880
+    gutenberg_agent_id: '4154'
+    url: http://www.gutenberg.org/2009/agents/4154
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Drama'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Duty -- Jurisprudence -- Magnanimity -- Matchmakers -- Retribution.
+title: Duty, and other Irish Comedies
+url: http://www.gutenberg.org/ebooks/11969
